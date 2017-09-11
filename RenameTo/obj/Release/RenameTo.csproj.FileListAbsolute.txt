@@ -1,0 +1,4 @@
+C:\Users\sarapulovav\Documents\SharpDevelop Projects\RenameTo\RenameTo\bin\Release\RenameTo.exe.config
+C:\Users\sarapulovav\Documents\SharpDevelop Projects\RenameTo\RenameTo\bin\Release\RenameTo.exe
+C:\Users\sarapulovav\Documents\SharpDevelop Projects\RenameTo\RenameTo\obj\Release\RenameTo.csprojResolveAssemblyReference.cache
+C:\Users\sarapulovav\Documents\SharpDevelop Projects\RenameTo\RenameTo\obj\Release\RenameTo.exe
