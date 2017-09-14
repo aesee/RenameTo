@@ -1,0 +1,4 @@
+// pattern:
+// common name of group of files for debug, original name, new name
+
+example file, original_name, new_name

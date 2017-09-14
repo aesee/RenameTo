@@ -1,4 +1,8 @@
 C:\Users\sarapulovav\Documents\SharpDevelop Projects\RenameTo\RenameTo\bin\Release\RenameTo.exe.config
 C:\Users\sarapulovav\Documents\SharpDevelop Projects\RenameTo\RenameTo\bin\Release\RenameTo.exe
-C:\Users\sarapulovav\Documents\SharpDevelop Projects\RenameTo\RenameTo\obj\Release\RenameTo.csprojResolveAssemblyReference.cache
 C:\Users\sarapulovav\Documents\SharpDevelop Projects\RenameTo\RenameTo\obj\Release\RenameTo.exe
+D:\Programs\git\RenameTo\RenameTo\bin\Release\RenameTo.exe.config
+D:\Programs\git\RenameTo\RenameTo\bin\Release\RenameTo.exe
+D:\Programs\git\RenameTo\RenameTo\obj\Release\RenameTo.csproj.CoreCompileInputs.cache
+D:\Programs\git\RenameTo\RenameTo\obj\Release\RenameTo.exe
+D:\Programs\git\RenameTo\RenameTo\obj\Release\RenameTo.csprojResolveAssemblyReference.cache

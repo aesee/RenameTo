@@ -1,0 +1,13 @@
+C:\Users\sarapulovav\Documents\SharpDevelop Projects\RenameTo\RenameTo\bin\Debug\RenameTo.exe.config
+C:\Users\sarapulovav\Documents\SharpDevelop Projects\RenameTo\RenameTo\bin\Debug\RenameTo.exe
+C:\Users\sarapulovav\Documents\SharpDevelop Projects\RenameTo\RenameTo\bin\Debug\RenameTo.pdb
+C:\Users\sarapulovav\Documents\SharpDevelop Projects\RenameTo\RenameTo\obj\Debug\RenameTo.csprojResolveAssemblyReference.cache
+C:\Users\sarapulovav\Documents\SharpDevelop Projects\RenameTo\RenameTo\obj\Debug\RenameTo.exe
+C:\Users\sarapulovav\Documents\SharpDevelop Projects\RenameTo\RenameTo\obj\Debug\RenameTo.pdb
+D:\Programs\git\RenameTo\RenameTo\bin\Debug\RenameTo.exe.config
+D:\Programs\git\RenameTo\RenameTo\bin\Debug\RenameTo.exe
+D:\Programs\git\RenameTo\RenameTo\bin\Debug\RenameTo.pdb
+D:\Programs\git\RenameTo\RenameTo\obj\Debug\RenameTo.csprojResolveAssemblyReference.cache
+D:\Programs\git\RenameTo\RenameTo\obj\Debug\RenameTo.csproj.CoreCompileInputs.cache
+D:\Programs\git\RenameTo\RenameTo\obj\Debug\RenameTo.exe
+D:\Programs\git\RenameTo\RenameTo\obj\Debug\RenameTo.pdb
